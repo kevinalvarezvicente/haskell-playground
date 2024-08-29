@@ -61,4 +61,4 @@ En caso de utilizar sistemas Windows, es recomendable ejecutar el script en Git 
 ### Funcionamiento
 
 La carpeta con todos los archivos `src/hs` se copia en `/usr/src/app/` y se ejecuta automáticamente el archivo `start.hs`.
-Luego con el ghci levanatdo s epueden ejecutar otras operaciones que fuesen necesarias.
+Luego con el ghci levanatdo se pueden ejecutar otras operaciones que fuesen necesarias.
