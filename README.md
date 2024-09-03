@@ -1,4 +1,4 @@
-# Proyecto Haskell App
+# Haskell Play Ground
 
 ## Licencia
 
